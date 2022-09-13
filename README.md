@@ -7,9 +7,10 @@
 
 ----------------------------
 
-I'm an aspiring Front End developer and a Game developer with an amazing work ethic looking to learn new things. This is going to be my first commit on Github and will
-be looking to commit more repositories in the coming months. Interested in Web development, Innovative tech and game development. currenly learning web development and python
-related dev projects. Looking to be a part of several collaborations and amazing projects in the coming future. 
+Creative Hypercasual Game and front end developer with experience in building hypercasual games, observant
+of tight deadlines and offering a strong attention to detail. Knowledgeable in the latest gaming
+trends. Visionary professional boasting a background generating video game prototypes that
+exceed project expectations with robust Unity3d and C# skills.
 
 <!---
 Ofonna-N/Ofonna-N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
