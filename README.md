@@ -1,6 +1,6 @@
 # Ofonna Nweze
 
-*Game Developer/Web Developer* <br>
+*Game Developer & Web Developer* <br>
 <!-- *Founder of <a href="https://smallygames.com/" target="_blank">Smally Games</a>-->
 
 *Founder of <a href="https://smallygames.com/" target="_blank">Smally Games</a>*
