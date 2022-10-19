@@ -2,7 +2,7 @@
 
 *Game Developer & Web Developer* <br>
 <!-- *Founder of <a href="https://smallygames.com/" target="_blank">Smally Games</a>-->
-
+[Portfolio Site](https://ofonna-n.github.io/Portfolio-Site/)
 *Founder of <a href="https://smallygames.com/" target="_blank">Smally Games</a>*
 
 ----------------------------
