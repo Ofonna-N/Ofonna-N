@@ -7,10 +7,7 @@ Porftolio [Portfolio Site](https://ofonna-n.github.io/portfolio-site/)<br>
 
 ----------------------------
 
-Creative Hypercasual Game and front end developer with experience in building hypercasual games, observant
-of tight deadlines and offering a strong attention to detail. Knowledgeable in the latest gaming
-trends. Visionary professional boasting a background generating video game prototypes that
-exceed project expectations with robust Unity3d and C# skills.
+Passionate about creating exceptional user experiences, I am a frontend developer proficient in React, Next.js. With a strong focus on building responsive and interactive web applications, I combine my technical expertise with creative problem-solving to deliver seamless user interfaces. Additionally, I have a keen interest in game development and possess the ability to create games using C# and Unity. I am constantly exploring new technologies and techniques to stay at the forefront of the ever-evolving field of frontend development. Let's connect and collaborate on innovative projects.
 
 <!---
 Ofonna-N/Ofonna-N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
