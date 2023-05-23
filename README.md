@@ -3,6 +3,7 @@
 *Game Developer & Web Developer* <br>
 <!-- *Founder of <a href="https://smallygames.com/" target="_blank">Smally Games</a>-->
 Porftolio [Portfolio Site](https://ofonna-n.github.io/portfolio-site/)<br>
+Youtube [Youtube Channel](https://www.youtube.com/@ofonna/videos)<br>
 *Founder of <a href="https://smallygames.com/" target="_blank">Smally Games</a>*
 
 ----------------------------
