@@ -12,6 +12,7 @@ Passionate about creating exceptional user experiences, I am a frontend develope
 ### Languages: 
 - Javascript 
 - C#  
+- HTML
 - TailwindCSS  
 - CSS  
 - Typescript <br>
