@@ -17,7 +17,7 @@ Passionate about creating exceptional user experiences, I am a frontend develope
 - CSS  
 - Typescript <br>
 ### Framword & Engines: 
-![React.JS](https://img.shields.io/badge/ReactJS-blue?style=flat-square&logo=React) ![NextJS](https://img.shields.io/badge/NextJS-black?style=flat-square&logo=Next.js) ![NodeJS](https://img.shields.io/badge/NodeJS-green?style=flat-square&logo=Node.js) ![Unity3D](https://img.shields.io/badge/Unity3D-grey?style=flat-square&logo=Unity)
+![React.JS](https://img.shields.io/badge/ReactJS-black?style=flat-square&logo=React) ![NextJS](https://img.shields.io/badge/NextJS-black?style=flat-square&logo=Next.js) ![NodeJS](https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=Node.js) ![Unity3D](https://img.shields.io/badge/Unity3D-black?style=flat-square&logo=Unity)
 
 
 <!---
