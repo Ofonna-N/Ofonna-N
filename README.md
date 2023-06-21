@@ -19,8 +19,10 @@ Passionate about creating exceptional user experiences, I am a frontend develope
 ### Framword & Technologies: 
 ![React.JS](https://img.shields.io/badge/ReactJS-black?style=flat-square&logo=React) ![NextJS](https://img.shields.io/badge/NextJS-black?style=flat-square&logo=Next.js) ![NodeJS](https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=Node.js) ![Unity3D](https://img.shields.io/badge/Unity3D-black?style=flat-square&logo=Unity) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=Express)
 
-## Databases
-![MongoDb](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=MongoDB) ![Firebase](https://img.shields.io/badge/Firestore-black?style=flat-square&logo=Firebase)
+### Toos & Technologies
+![Webpack](https://img.shields.io/badge/Webpack-black?style=flat-square&logo=webpack) ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git) ![MongoDb](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=MongoDB) ![Firebase](https://img.shields.io/badge/Firestore-black?style=flat-square&logo=Firebase)
+
+
 
 <!-- 
 ## :phone: Contact
