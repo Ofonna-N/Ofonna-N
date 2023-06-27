@@ -21,7 +21,7 @@ Passionate about creating exceptional user experiences, I am a frontend develope
 
 ### Tools & Technologies
 ![Webpack](https://img.shields.io/badge/Webpack-black?style=flat-square&logo=webpack) ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git) ![MongoDb](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=MongoDB) ![Firebase](https://img.shields.io/badge/Firestore-black?style=flat-square&logo=Firebase) ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux) ![reactrouter](https://img.shields.io/badge/Reactrouter-black?style=flat-square&logo=reactrouter) ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux) 
-<!--![reactrouter](https://img.shields.io/badge/Reactrouter-black?style=flat-square&logo=reacthookform)-->
+![reacthookform](https://img.shields.io/badge/Reacthookform-black?style=flat-square&logo=reacthookform)
 
 
 
