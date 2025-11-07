@@ -4,7 +4,6 @@
 <!-- *Founder of <a href="https://smallygames.com/" target="_blank">Smally Games</a>-->
 
 [![Portfolio Site](https://img.shields.io/badge/Porfolio-black?style=flat-square&logo=Semantic%20Web)](https://portfolio-v2-five-sandy.vercel.app/)
-[![linkedIn](https://img.shields.io/badge/linkedIn-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/ofonna-nweze-2abbb9173/)
 [![Youtube](https://img.shields.io/badge/Youtube%20Channel-red?style=flat-square&logo=YouTube)](https://www.youtube.com/@ofonna/videos)
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail)](mailto:nwezeofonna@gmail.com)
 
