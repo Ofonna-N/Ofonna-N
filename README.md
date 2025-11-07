@@ -12,7 +12,7 @@
 
 ---
 
-Passionate about creating exceptional user experiences, I am a **full-stack developer** proficient in React, Next.js, Node.js, and modern database technologies. With expertise spanning frontend interfaces to backend APIs and database design, I build scalable, secure web applications from concept to deployment. I combine technical expertise with creative problem-solving to deliver seamless user experiences. Additionally, I have experience in game development using C# and Unity. I am constantly exploring new technologies and staying current with industry best practices.
+I am a software developer with over 4 years of experience, specializing in building complete, high-performance web applications. My passion is crafting exceptional user experiences with React and Next.js, but my skills extend full-stack. I have experience architecting enterprise-ready solutions using PostgreSQL, Prisma, and Docker, and have built full-stack applications integrating Supabase, AI APIs, and PayPal payment systems. I am driven by solving complex problems and turning ideas into secure, scalable products. When I'm not coding, you can find me enjoying a game of soccer or hitting the gym. Let's connect and collaborate on innovative projects.
 
 ## :computer: Tech Stack
 
