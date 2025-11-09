@@ -11,13 +11,13 @@
 
 ---
 
-I am a software developer with over 4 years of experience, specializing in building complete, high-performance web applications. My passion is crafting exceptional user experiences with React and Next.js, but my skills extend full-stack. I have experience architecting enterprise-ready solutions using PostgreSQL, Prisma, and Docker, and have built full-stack applications integrating Supabase, AI APIs, and PayPal payment systems. I am driven by solving complex problems and turning ideas into secure, scalable products. When I'm not coding, you can find me enjoying a game of soccer or hitting the gym. Let's connect and collaborate on innovative projects.
+I am a software developer with over 4 years of experience, specializing in building complete, high-performance web applications. My passion is crafting exceptional user experiences with React and Next.js, but my skills extend full-stack. I have experience architecting high-impact, full-stack solutions using PostgreSQL, Prisma, and Docker, and have built full-stack applications integrating Supabase, AI APIs, and PayPal payment systems. I am driven by solving complex problems and turning ideas into secure, scalable products. When I'm not coding, you can find me enjoying a game of soccer or hitting the gym. Let's connect and collaborate on innovative projects.
 
 ## :computer: Tech Stack
 
 ### Languages:
 
-![Javascript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript) ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=TypeScript) ![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=C%20Sharp) ![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=HTML5) ![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=CSS3) ![SCSS](https://img.shields.io/badge/SCSS-black?style=flat-square&logo=SASS)
+![Javascript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript) ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=TypeScript) ![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=HTML5) ![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=CSS3) ![SCSS](https://img.shields.io/badge/SCSS-black?style=flat-square&logo=SASS)
 
 ### Frontend Frameworks & Libraries:
 
@@ -25,11 +25,11 @@ I am a software developer with over 4 years of experience, specializing in build
 
 ### Backend & Database Technologies:
 
-![NodeJS](https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=Node.js) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=Express) ![Prisma](https://img.shields.io/badge/Prisma-black?style=flat-square&logo=Prisma) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=PostgreSQL) ![MongoDb](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=MongoDB) ![Firebase](https://img.shields.io/badge/Firestore-black?style=flat-square&logo=Firebase)
+![NodeJS](https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=Node.js) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=Express) ![Prisma](https://img.shields.io/badge/Prisma-black?style=flat-square&logo=Prisma) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=PostgreSQL) ![MongoDb](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=MongoDB) ![Firebase](https://img.shields.io/badge/Firestore-black?style=flat-square&logo=Firebase) ![Supabase](https://img.shields.io/badge/Supabase-black?style=flat-square&logo=Supabase)
 
 ### DevOps & Tools:
 
-![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=Docker) ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git) ![Webpack](https://img.shields.io/badge/Webpack-black?style=flat-square&logo=webpack) ![ESLint](https://img.shields.io/badge/ESLint-black?style=flat-square&logo=ESLint) ![Unity3D](https://img.shields.io/badge/Unity3D-black?style=flat-square&logo=Unity)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=Docker) ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git) ![Webpack](https://img.shields.io/badge/Webpack-black?style=flat-square&logo=webpack) ![ESLint](https://img.shields.io/badge/ESLint-black?style=flat-square&logo=ESLint) 
 
 <!--
 ## :phone: Contact
