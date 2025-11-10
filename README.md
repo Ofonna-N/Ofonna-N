@@ -11,7 +11,7 @@
 
 ---
 
-I am a software developer with over 4 years of experience, specializing in building complete, high-performance web applications. My passion is crafting exceptional user experiences with React and Next.js, but my skills extend full-stack. I have experience architecting high-impact, full-stack solutions using PostgreSQL, Prisma, and Docker, and have built full-stack applications integrating Supabase, AI APIs, and PayPal payment systems. I am driven by solving complex problems and turning ideas into secure, scalable products. When I'm not coding, you can find me enjoying a game of soccer or hitting the gym. Let's connect and collaborate on innovative projects.
+I am a software developer with over 4 years of experience, now specializing in building complete, high-performance web applications. My passion is crafting exceptional user experiences with React and Next.js, but my skills extend full-stack. I have experience architecting high-impact, full-stack solutions using PostgreSQL, Prisma, and Docker, and have built full-stack applications integrating Supabase, AI APIs, and PayPal payment systems. I am driven by solving complex problems and turning ideas into secure, scalable products. When I'm not coding, you can find me enjoying a game of soccer or hitting the gym. Let's connect and collaborate on innovative projects.
 
 ## :computer: Tech Stack
 
